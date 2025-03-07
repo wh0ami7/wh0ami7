@@ -1,12 +1,8 @@
-<p align="center">
-  <img src="https://your-banner-image-url.com" alt="Profile Banner" width="600"/>
-</p>
-
-# 🌟 Hey, I’m Israel Thomas M – Wh0ami7  
+# 🌟 Hey, I’m Israel Thomas/Izzy – Wh0ami7  
 
 <p align="center">
-  I’m a [e.g., Software Engineer | AI Innovator] crafting [e.g., cutting-edge tools, beautiful UIs].  
-  Let’s build something amazing together! 🚀  
+  I’m a Security Engineer by passion.  
+  I like building cli tools for bug bounty hunters and pentesters! 🚀  
 </p>
 
 <p align="center">
