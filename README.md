@@ -20,7 +20,6 @@ I’m a security engineer by passion building cli tools which help bug bounty hu
 - **Repositories**: [![Repos](https://img.shields.io/github/repo-size/wh0ami7/yourusername?style=flat-square)](https://github.com/yourusername?tab=repositories)  
 - **Stars Earned**: ![Stars](https://img.shields.io/github/stars/wh0ami7?style=social)  
 - **Commits in 2025**: ![Commits](https://img.shields.io/github/commit-activity/y/wh0ami7/wh0ami7?style=flat-square)  
-- **Open-Source PRs**: [Manually update or automate with GitHub API]  
 
 💡 *Pro Tip: Automate these stats with GitHub Actions for real-time updates!*  
 
