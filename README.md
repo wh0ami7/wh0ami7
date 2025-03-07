@@ -26,10 +26,10 @@ I’m a security engineer by passion building cli tools which help bug bounty hu
 ---
 
 ## 🌟 Featured Projects  
-- **[Project Name](https://github.com/wh0ami7//crt_sh)**  
-  *A [e.g., fast, secure, AI-driven] [e.g., web app, CLI tool] for [purpose]. Built with [tech stack, e.g., React, Node.js, MongoDB].*  
-  ![Stars](https://img.shields.io/github/stars/wh0ami7/project-repo?style=social)  
-  ![Forks](https://img.shields.io/github/forks/wh0ami7/project-repo?style=social)  
+- **[Project Name](https://github.com/wh0ami7/crt_sh)**  
+  *A A Simple Golang tool to fetch root domains from crt.sh.*  
+  ![Stars](https://img.shields.io/github/stars/wh0ami7/crt_sh?style=social)  
+  ![Forks](https://img.shields.io/github/forks/wh0ami7/crt_sh?style=social)  
   
 
 👉 **Have a cool idea? Open an issue or PR on my repos!**  
