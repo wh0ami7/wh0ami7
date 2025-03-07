@@ -25,6 +25,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=wh0ami7&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=wh0ami7&theme=dark&hide_border=true" alt="Streak Stats"/>  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0ami7&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages"/>  
 </p>
 
@@ -99,4 +100,4 @@
 
 ---
 
-<i>Updated: March 7, 2025</i>  
+<i>Updated: M 30, 2024</i>  
