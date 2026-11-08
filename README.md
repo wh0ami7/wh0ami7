@@ -1,100 +1,59 @@
-# 🌟 Hey, I’m Israel Thomas / Izzy – Wh0ami7  
+# Hi, I'm Israel Thomas (Izzy) 👋
 
-<p align="center">
-  I’m a passionate Security Engineer crafting CLI tools for bug bounty hunters and pentesters! 🚀  
-</p>
+**Security engineer and systems developer** building fast reconnaissance tools and low-level macOS/GPU software.
 
-<p align="center">
-  <a href="https://github.com/wh0ami7?tab=repositories"><b>Explore My Work</b></a> • 
-  <a href="https://x.com/Wh0ami_7"><b>Follow Me</b></a>
-</p>
+I enjoy working where offensive security, CLI tooling, and systems programming meet. My current focus includes hardware video decoding through AMD VCN and VideoToolbox.
 
----
+[Explore my projects](https://github.com/wh0ami7?tab=repositories)
 
-## 📈 My GitHub Universe  
+## Featured projects
 
-<p align="center">
-  Discover my journey through code and collaboration.
-</p>
+### [AMD VCN Video Decoders](https://github.com/wh0ami7/vcn-video-decoders)
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wh0ami7&label=Profile%20Views&color=ff69b4&style=flat-square" alt="Profile Views"/>  
-  <img src="https://img.shields.io/github/followers/wh0ami7?label=Followers&style=social" alt="Followers"/>  
-  <img src="https://img.shields.io/github/stars/wh0ami7?style=social" alt="Stars"/>  
-</p>
+Hardware AV1 and VP9 decoding through VideoToolbox on AMD Navi 21 GPUs for OpenCore hackintoshes, enabling GPU-accelerated playback in Safari and Chrome.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=wh0ami7&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>  
- 
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=wh0ami7&theme=horizon&hide_border=true&mode=weekly" alt="Streak Stats"/>  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wh0ami7&layout=compact&theme=default&hide_border=true&langs_count=10" alt="Top Languages"/>  
-</p>
+Built in collaboration with [DrogaBox](https://github.com/DrogaBox).
 
----
+`C` `VideoToolbox` `AMD VCN` `macOS`
 
-## ✨ Featured Creations  
+### [wayback_recon](https://github.com/wh0ami7/wayback_recon)
 
-<p align="center">
-  Highlighting a tool I’m proud of—built for the security community.
-</p>
+A fast C CLI that retrieves and deduplicates historical URLs and query parameters from the Wayback Machine CDX API for reconnaissance workflows.
 
-<p align="center">
-  <a href="https://github.com/wh0ami7/crt_sh">
-    <img src="https://img.shields.io/github/stars/wh0ami7/crt_sh?style=social" alt="crt_sh Stars"/>  
-    <img src="https://img.shields.io/github/forks/wh0ami7/crt_sh?style=social" alt="crt_sh Forks"/>  
-    <img src="https://img.shields.io/github/watchers/wh0ami7/crt_sh?label=Watchers&style=social" alt="crt_sh Watchers"/>  
-    <img src="https://img.shields.io/github/license/wh0ami7/crt_sh?label=License&color=purple&style=flat-square" alt="crt_sh License"/>  
-  </a>
-</p>
+`C` `libcurl` `Wayback Machine` `Reconnaissance`
 
-<p align="center">
-  <b>crt_sh</b> – A sleek Golang tool to fetch root domains from crt.sh.
-</p>
+### [crt_sh](https://github.com/wh0ami7/crt_sh)
 
----
+A Go CLI that queries certificate transparency logs through crt.sh and caches discovered domain names in BoltDB for offline access.
 
-## 🌐 Connect with Me  
+`Go` `BoltDB` `Certificate Transparency`
 
-<p align="center">
-  Let’s talk security, code, or coffee!
-</p>
+## What I work with
 
-<p align="center">
-  <a href="https://linkedin.com/in/israel7"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>  
-  <a href="https://x.com/Wh0ami_7"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>  
-  <a href="mailto:wh0ami_7@wearehackerone.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>  
-</p>
+- **Languages:** C and Go
+- **Security:** Reconnaissance, certificate transparency, and penetration-testing tooling
+- **Systems:** macOS internals, VideoToolbox, AMD VCN, and GPU driver interfaces
+- **Development:** Command-line tools, local/offline data processing, and GitHub Actions
 
----
+## GitHub at a glance
 
-## 🛠️ My Toolkit  
+<a href="https://github.com/wh0ami7">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-stats-extended.vercel.app/api?username=wh0ami7&show_icons=true&hide_border=true&theme=dark_github&disable_animations=true"
+    />
+    <img
+      alt="Israel's GitHub public activity statistics"
+      src="https://github-stats-extended.vercel.app/api?username=wh0ami7&show_icons=true&hide_border=true&theme=light_github&disable_animations=true"
+    />
+  </picture>
+</a>
 
-<p align="center">
-  The technologies powering my creations.
-</p>
+## Connect
 
-<p align="center">   
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>  
-</p>
+[LinkedIn](https://www.linkedin.com/in/israel7/) ·
+[X / @Wh0ami_7](https://x.com/Wh0ami_7) ·
+[Email](mailto:wh0ami_7@wearehackerone.com)
 
----
-
-## 🎉 Fun Vibes  
-
-<p align="center">
-  A glimpse into what keeps me going.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Fuel-Coffee-6F4E37?style=flat-square&logo=coffee&logoColor=white" alt="Coffee"/>  
-  <img src="https://img.shields.io/badge/Status-Building%20Dreams-brightgreen?style=flat-square" alt="Status"/>  
-</p>
-
-<p align="center">
-  <i>“All things are difficult before they are easy.”</i>
-</p>
-
----
-
-<i>Updated: March 7, 2025</i>  
+Let's talk about security research, reconnaissance tooling, or systems programming.
