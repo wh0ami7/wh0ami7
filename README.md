@@ -138,7 +138,7 @@ Fast **C** CLI that retrieves and deduplicates historical URLs and query paramet
 <div align="center">
 
 <a href="https://github.com/wh0ami7">
-  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wh0ami7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=wh0ami7&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
 </a>
 &nbsp;
 <a href="https://github.com/wh0ami7">
