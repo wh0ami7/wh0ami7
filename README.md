@@ -105,12 +105,13 @@ I'm **Israel Thomas (Izzy)** — a security engineer and systems developer from 
   <a href="https://github.com/wh0ami7/vcn-video-decoders/actions"><img alt="workflow" src="https://img.shields.io/github/actions/workflow/status/wh0ami7/vcn-video-decoders/release.yml?style=flat&label=release" /></a>
 </p>
 
-**[wayback_recon](https://github.com/wh0ami7/wayback_recon)** — Fast C CLI for Wayback Machine CDX URL recon.
+**[ForbiddenItlwm](https://github.com/wh0ami7/ForbiddenItlwm)** — Because AirDrop was never supposed to work on Intel Wi-Fi.
 
 <p align="center">
-  <a href="https://github.com/wh0ami7/wayback_recon"><img alt="stars" src="https://img.shields.io/github/stars/wh0ami7/wayback_recon?style=flat&logo=github" /></a>
-  <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" />
-  <img alt="libcurl" src="https://img.shields.io/badge/libcurl-073551?style=flat&logo=curl&logoColor=white" />
+  <a href="https://github.com/wh0ami7/ForbiddenItlwm"><img alt="stars" src="https://img.shields.io/github/stars/wh0ami7/ForbiddenItlwm?style=flat&logo=github" /></a>
+  <a href="https://github.com/wh0ami7/ForbiddenItlwm/releases"><img alt="release" src="https://img.shields.io/github/v/release/wh0ami7/ForbiddenItlwm?style=flat" /></a>
+  <a href="https://github.com/wh0ami7/ForbiddenItlwm/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/wh0ami7/ForbiddenItlwm/total?style=flat" /></a>
+  <a href="https://github.com/wh0ami7/ForbiddenItlwm/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/wh0ami7/ForbiddenItlwm?style=flat" /></a>
 </p>
 
 **[crt_sh](https://github.com/wh0ami7/crt_sh)** — Go CLI for crt.sh certificate-transparency lookups + BoltDB cache.
