@@ -47,9 +47,7 @@
 
 I'm **Israel Thomas (Izzy)** — a security engineer and systems developer from the offensive-security / systems space.
 
-- 🔐 **OSCP** · recon, certificate transparency, penetration-testing tooling
-- ⚙️ **C & Go** CLIs for Wayback and crt.sh workflows
-- 🖥️ **macOS / VideoToolbox / AMD VCN** — hardware AV1 & VP9 decode
+- ⚙️ **C & Go** dev
 - 📦 Shipping installers with **GitHub Actions**
 
 ---
