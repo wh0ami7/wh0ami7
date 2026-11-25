@@ -37,6 +37,7 @@
   <img alt="Profile views" src="https://komarev.com/ghpvc/?username=wh0ami7&label=Profile%20views&color=0e75b6&style=flat" />
   <img alt="OSCP" src="https://img.shields.io/badge/OSCP-certified-111111?style=flat&logo=offensive-security&logoColor=white" />
   <img alt="Hireable" src="https://img.shields.io/badge/Available%20for%20hire-yes-2ea44f?style=flat" />
+  <a href="https://github.com/sponsors/wh0ami7?frequency=recurring&sponsor=wh0ami7"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-ea4aaa?style=flat&logo=githubsponsors&logoColor=white" /></a>
   <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme"><img alt="Awesome" src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" /></a>
 </p>
 
@@ -155,6 +156,7 @@ I'm **Israel Thomas (Izzy)** — a security engineer and systems developer from 
   <a href="https://x.com/Wh0ami_7"><img alt="X" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
   <a href="mailto:wh0ami_7@wearehackerone.com"><img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/wh0ami7"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/sponsors/wh0ami7?frequency=recurring&sponsor=wh0ami7"><img alt="Sponsor" src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 </p>
 
 <p align="center">
