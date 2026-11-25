@@ -87,8 +87,8 @@ I'm **Israel Thomas (Izzy)** — a security engineer and systems developer from 
   <a href="https://github.com/wh0ami7/vcn-video-decoders">
     <img align="center" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wh0ami7&repo=vcn-video-decoders&theme=radical&hide_border=true" alt="vcn-video-decoders" />
   </a>
-  <a href="https://github.com/wh0ami7/wayback_recon">
-    <img align="center" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wh0ami7&repo=wayback_recon&theme=radical&hide_border=true" alt="wayback_recon" />
+  <a href="https://github.com/wh0ami7/ForbiddenItlwm">
+    <img align="center" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wh0ami7&repo=ForbiddenItlwm&theme=radical&hide_border=true" alt="wayback_recon" />
   </a>
   <a href="https://github.com/wh0ami7/crt_sh">
     <img align="center" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wh0ami7&repo=crt_sh&theme=radical&hide_border=true" alt="crt_sh" />
