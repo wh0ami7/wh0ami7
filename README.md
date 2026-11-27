@@ -85,9 +85,6 @@ I'm **Israel Thomas (Izzy)** — a security engineer and systems developer from 
   <a href="https://github.com/wh0ami7/vcn-video-decoders">
     <img align="center" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wh0ami7&repo=vcn-video-decoders&theme=radical&hide_border=true" alt="vcn-video-decoders" />
   </a>
-  <a href="https://github.com/wh0ami7/ForbiddenItlwm">
-    <img align="center" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wh0ami7&repo=ForbiddenItlwm&theme=radical&hide_border=true" alt="wayback_recon" />
-  </a>
   <a href="https://github.com/wh0ami7/crt_sh">
     <img align="center" height="135" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=wh0ami7&repo=crt_sh&theme=radical&hide_border=true" alt="crt_sh" />
   </a>
@@ -101,15 +98,6 @@ I'm **Israel Thomas (Izzy)** — a security engineer and systems developer from 
   <a href="https://github.com/wh0ami7/vcn-video-decoders/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/wh0ami7/vcn-video-decoders/total?style=flat" /></a>
   <a href="https://github.com/wh0ami7/vcn-video-decoders/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/wh0ami7/vcn-video-decoders?style=flat" /></a>
   <a href="https://github.com/wh0ami7/vcn-video-decoders/actions"><img alt="workflow" src="https://img.shields.io/github/actions/workflow/status/wh0ami7/vcn-video-decoders/release.yml?style=flat&label=release" /></a>
-</p>
-
-**[ForbiddenItlwm](https://github.com/wh0ami7/ForbiddenItlwm)** — Because AirDrop was never supposed to work on Intel Wi-Fi.
-
-<p align="center">
-  <a href="https://github.com/wh0ami7/ForbiddenItlwm"><img alt="stars" src="https://img.shields.io/github/stars/wh0ami7/ForbiddenItlwm?style=flat&logo=github" /></a>
-  <a href="https://github.com/wh0ami7/ForbiddenItlwm/releases"><img alt="release" src="https://img.shields.io/github/v/release/wh0ami7/ForbiddenItlwm?style=flat" /></a>
-  <a href="https://github.com/wh0ami7/ForbiddenItlwm/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/wh0ami7/ForbiddenItlwm/total?style=flat" /></a>
-  <a href="https://github.com/wh0ami7/ForbiddenItlwm/blob/main/LICENSE"><img alt="license" src="https://img.shields.io/github/license/wh0ami7/ForbiddenItlwm?style=flat" /></a>
 </p>
 
 **[crt_sh](https://github.com/wh0ami7/crt_sh)** — Go CLI for crt.sh certificate-transparency lookups + BoltDB cache.
